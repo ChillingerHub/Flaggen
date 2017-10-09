@@ -1,0 +1,13 @@
+{
+    "name": "stefan/flags",
+    "description": "This provides different flags",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stefan Hillinger",
+            "email": "stefan.hillinger@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
